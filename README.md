@@ -1,2 +1,2 @@
-# Front End Spring Boot Todo Management App
+# Frontend Spring Boot Todo Management App
 
