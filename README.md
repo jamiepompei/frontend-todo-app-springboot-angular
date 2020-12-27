@@ -1,1 +1,2 @@
-# todo-app-springboot-angular
+# Frontend Spring Boot Todo Management App
+
